@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use reference these scan results, please cite it as below."
+authors:
+- family-names: "Sicklick"
+  given-names: "John"
+  orcid: "https://orcid.org/0000-0003-3532-9896"
+title: "STI-Thesis"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-03-30
+url: "https://github.com/cdrcybr/STI-Thesis"
+preferred-citation:
+  type: "conference-paper"
+  title: "End of Support, But Not End of Use: Security Implications of End-of-Support Operating Systems"
+
